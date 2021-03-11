@@ -1,0 +1,25 @@
+/* Style for all elements */
+* {
+   background-color: #FFEBCD;
+   color: navy;
+   font-family: Comic Sans MS, serif;
+}
+/* Style for element with id, pageTitle */
+#pageTitle {
+   text-align: center;
+   height: 50px;
+   background-color: #00BFFF;
+}
+#image {
+  border: 3px solid green;
+}
+/* Style for all h1 and h3 elements */
+h1{
+   border: 2px solid orange;
+}
+#amentis {
+    color: brown;
+}
+#near{
+   color: limegreen;
+}
